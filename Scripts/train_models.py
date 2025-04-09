@@ -2,7 +2,7 @@
 """
 This is a script that can be used to train the three models (knn, svc and logistic regression) using the hyperparameters obtained from the hyperparameter tuning.
 
-Author: Lotte Bottema
+Author: Sreejita Mazumder
 Course: Bioinformatics for Translational Medicine
 Project: CATS
 Date: 20-05-2022
