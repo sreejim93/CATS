@@ -3,7 +3,7 @@
 """
 This is a script does a scoring evaluation of the models with correct hyper-parameters and selected features
 
-Author: Aron van Beelen
+Author: Sreejita Mazumder
 Course: Bioinformatics for Translational Medicine
 Project: CATS
 Date: 10-05-2022
