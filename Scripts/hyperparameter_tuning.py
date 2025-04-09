@@ -2,7 +2,7 @@
 """
 This is a script that performs hyper-parameter tuning for SVM, Logistic Regression, and k-NN.
 
-Author: Aron van Beelen
+Author: Aron van Beelen & Sreejita Mazumder
 Course: Bioinformatics for Translational Medicine
 Project: CATS
 Date: 10-05-2022
