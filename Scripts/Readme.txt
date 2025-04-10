@@ -16,4 +16,9 @@ Python script for evaluating machine learning models on biological datasets, per
 contains a Python script for performing feature selection on clinical data from the CATS project. 
 The script focuses on identifying the most relevant features from a dataset to aid in subsequent analysis and model development.
 
+## Hyperparameter_Tuning.py
+
+Contains Python script for hyperparameter tuning of SVM, k-NN, and Logistic Regression models using GridSearchCV, including feature selection and cross-validation, 
+to identify optimal parameters and evaluate model performance.
+
 
