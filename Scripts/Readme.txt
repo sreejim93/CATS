@@ -22,3 +22,9 @@ Contains Python script for hyperparameter tuning of SVM, k-NN, and Logistic Regr
 to identify optimal parameters and evaluate model performance.
 
 
+## Train_Models.py
+
+This Python script is designed to train three different machine learning models—K-Nearest Neighbors (KNN), Support Vector Classifier (SVC), and Logistic Regression—on a dataset.
+The models are trained using hyperparameters that have been previously optimized (through hyperparameter tuning)
+
+
